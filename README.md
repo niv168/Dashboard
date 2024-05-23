@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Hosted on netlify
+## Hosted on netlify
 
 URL of hosted website: https://664ee6011d3f20bb4b2c717c--marvelous-starburst-c8cffd.netlify.app/
 
