@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 URL of hosted website: https://664ee6011d3f20bb4b2c717c--marvelous-starburst-c8cffd.netlify.app/
 
+## Screenshot
+
+![Screenshot](https://github.com/niv168/Dashboard/blob/master/Screenshot%20(123).png)
+
 ## Available Scripts
 
 In the project directory, you can run:
